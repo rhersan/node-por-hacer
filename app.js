@@ -1,7 +1,4 @@
-// by: Ing.Ricardo Hernández Sanatiago
-// phone: 5579953424
-// email: hersanoficial@gmail.com
-// te amo angelica
+// by: Ricardo Hernández Santiago
 const argv = require('./config/yargs').argv;
 const porHacer = require('./por-hacer/por-hacer');
 const colors = require('colors');
